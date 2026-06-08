@@ -1,3 +1,6 @@
+# PDF-Merger
+A Python-based PDF merger that combines multiple PDF files into a single document using pypdf. Built with portable file handling using pathlib, making it easy to run on any system.
+
 # PDF Merger
 
 A simple and portable Python application that merges multiple PDF files into a single PDF document using the `pypdf` library.
